@@ -1,3 +1,22 @@
 h1 {
     color: purple;
 }
+
+.card {
+ height: 650px;
+ width: 400px;
+ border: 2px solid green;
+}
+
+.image img {
+    width: 350px;
+}
+
+.author img {
+    width: 100px;
+    border-radius: 50%;
+}
+
+.author {
+    display: flex;
+}
